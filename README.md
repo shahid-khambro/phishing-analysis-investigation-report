@@ -1,10 +1,9 @@
 # Threat Intelligence Report: Sextortion Scam Email Analysis
 
 **Report ID:** TIR-2026-001  
-**Analyst:** [Your Name]  
+**Analyst:** Shahid ali  
 **Date:** 2026-05-14  
-**Last Updated:** 2026-06-10 (OSINT enrichment added)  
-**Classification:** TLP:WHITE (Safe for public distribution)  
+**Last Updated:** 2026-06-10 (OSINT enrichment added)   
 **Severity:** Medium (Social Engineering / Financial Fraud)
 
 ---
